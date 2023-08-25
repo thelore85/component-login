@@ -20,7 +20,7 @@ let input = '';
 export let serverUrl;
 const serverPort = 9000;
 const serverPath = '/login-component'
-const serverAdress = 'https://login-component-server.vercel.app';
+const serverAdress = 'https://server-piqus.vercel.app';
 const serverLive = `${serverAdress}${serverPath}`;
 const serverLocal = `http://localhost:${serverPort}`
 
